@@ -32,41 +32,25 @@ public class OwnAdventure {
 			else {
 		String doggo=		JOptionPane.showInputDialog("The glob was very pleased with you and gave you a key."
 						+ " what will you do with the key? 'R' throw it away, 'K' keep it");
-		if(doggo.equals)
+		if(doggo.equals("R")) {
+			JOptionPane.showMessageDialog(null, "The trash can was on the other side of the trail where there were warning signs, obviously you didnt see them.");
+		}
+		else {
+		JOptionPane.showMessageDialog(null, "you opened the door and found the treasure. BOB THE BUILDER TURNED ON U... R.I.P.");	
+		}
+			
+
+		}
 			}
 			
-		}}
+		}
 		
 		else {
 			JOptionPane.showMessageDialog(null, "Your dog got too hungry"
 					+ " so he had to eat you");
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+				
+	}
 	}
 
-}
+

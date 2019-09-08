@@ -21,8 +21,9 @@ ellipse(mouseX+200,mouseY,40,15);
   
   
   if(mouseX<199){
-  mouseX=199  
+  mouseX=199;  
 }
+  }
 
 
 }
